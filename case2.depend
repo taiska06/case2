@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1671891114 source:c:\users\apaki\desktop\case2\main.cpp
+	<iostream>
+	<string>
+	"case2.h"
+
+1671898000 c:\users\apaki\desktop\case2\case2.h
+	<iostream>
+	<string>
+
+1671898359 source:c:\users\apaki\desktop\case2\case2.cpp
+	<iostream>
+	<string>
+	"case2.h"
+
